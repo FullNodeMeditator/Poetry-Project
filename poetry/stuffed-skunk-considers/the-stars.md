@@ -1,7 +1,5 @@
 # The Stars
 
-###
-
 ***
 
 A fair amount of time\
