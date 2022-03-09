@@ -1,7 +1,5 @@
 # Plastic Keys Touching my Fingers
 
-###
-
 ***
 
 When I look up\

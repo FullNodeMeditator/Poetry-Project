@@ -1,7 +1,5 @@
 # Foggy Philadelphia
 
-###
-
 ***
 
 In the square, a fountain pushes water upward\

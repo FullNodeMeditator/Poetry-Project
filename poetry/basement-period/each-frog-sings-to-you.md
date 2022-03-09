@@ -1,7 +1,5 @@
 # Each frog sings to you
 
-###
-
 ***
 
 Beneath the asphalt\

@@ -25,6 +25,8 @@
   * [Breeding](poetry/stuffed-skunk-considers/breeding.md)
   * [Babies Smile](poetry/stuffed-skunk-considers/babies-smile.md)
   * [The Stars](poetry/stuffed-skunk-considers/the-stars.md)
+* [Probiotic Period](poetry/probiotic-period/README.md)
+  * [Optimistic Rain Coming](poetry/probiotic-period/optimistic-rain-coming.md)
 
 ## Stories
 

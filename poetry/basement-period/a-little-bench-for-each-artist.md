@@ -1,7 +1,5 @@
 # A little bench for each artist
 
-###
-
 ***
 
 Yesterday I discovered a new artist\
