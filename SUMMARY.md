@@ -27,6 +27,7 @@
   * [The Stars](poetry/stuffed-skunk-considers/the-stars.md)
 * [Probiotic Period](poetry/probiotic-period/README.md)
   * [Optimistic Rain Coming](poetry/probiotic-period/optimistic-rain-coming.md)
+  * [15-minute family](poetry/probiotic-period/15-minute-family.md)
 
 ## Stories
 
